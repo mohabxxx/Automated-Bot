@@ -8,8 +8,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 import pandas as pd
 import time
 
-user="mezzat@gharably.com"
-password="M-ezzat5656"
+user="************"
+password="**********"
 website='https://id.eta.gov.eg/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3D9A029E3B-7403-4B25-8850-AB67E1FD92AB%26redirect_uri%3Dhttps%253A%252F%252Finvoicing.eta.gov.eg%252Flogin%26response_type%3Did_token%2520token%26scope%3Dopenid%2520profile%2520publicportals.bff.api%26state%3Dab6adef33db84d8fadb38a4fcdd59838%26nonce%3D2cc8ca01c70a4763910f38d563e78604'
 service=Service()
 options=webdriver.ChromeOptions()
